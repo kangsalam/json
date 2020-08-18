@@ -14,7 +14,7 @@
         {
             "id": "3",
             "nama": "RCTI TV HD",
-            "gambar": "https://www.google.com/search?q=rcti+hd+png&safe=strict&client=ms-android-xiaomi-rev1&prmd=inmv&sxsrf=ALeKk02LDKmrdO2wIvxFVZC8YjYh45dG6w:1597729485174&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi6taSThqTrAhVGXSsKHcZfAp4Q_AUoAXoECA4QAQ&biw=393&bih=766#imgrc=C_XGyQbIHGfWkM",
+            "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQQJKSC6OeFSNtX_iMiQgkwdpToxo_EZAKGbg&usqp=CAU",
             "link": "https://raw.githubusercontent.com/zalindo/tv/master/rctisd.m3u8"
         }
     ]
