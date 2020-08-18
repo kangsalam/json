@@ -14,7 +14,7 @@
         {
             "id": "3",
             "nama": "RCTI TV HD",
-            "gambar": "https://1.bp.blogspot.com/-KEJyj5w2VIU/Xlfc9DWsayI/AAAAAAAABqI/DmZKJ10dXCEy7goWu7XPLQDvdPhs_QquwCLcBGAsYHQ/w1200-h630-p-k-no-nu/Logo%2BRCTI.png",
+            "gambar": "https://i.ibb.co/kgDGDVb/kisspng-rcti-logo-streaming-media-television-media-nusanta-televisi-indonesia-5b183f75d2b8f1-7696767.pngnu/Logo%2BRCTI.png",
             "link": "https://raw.githubusercontent.com/zalindo/tv/master/rctisd.m3u8"
         }
     ]
