@@ -1,5 +1,5 @@
 ﻿{
-    "Lembar1": [
+   [
         {
             "id": "1",
             "nama": "GLOBAL TV HD",
