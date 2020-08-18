@@ -1,0 +1,16 @@
+﻿{
+    "Lembar1": [
+        {
+            "id": "1",
+            "nama": "GLOBAL TV HD",
+            "gambar": "https://2.bp.blogspot.com/-bzm74EAI1UU/W-rSTwODMUI/AAAAAAAAE-E/7_oqe2IlYek3TUp5ZQJcJDR2CdvIX6FvgCLcBGAs/s1600/Global%2BTV%2BTerbaru.png",
+            "link": "https://raw.githubusercontent.com/zalindo/tv/master/globalsd.m3u8"
+        },
+        {
+            "id": "2",
+            "nama": "GLOBAL TV SD",
+            "gambar": "https://2.bp.blogspot.com/-bzm74EAI1UU/W-rSTwODMUI/AAAAAAAAE-E/7_oqe2IlYek3TUp5ZQJcJDR2CdvIX6FvgCLcBGAs/s1600/Global%2BTV%2BTerbaru.png",
+            "link": "https://raw.githubusercontent.com/zalindo/tv/master/global.m3u8"
+        }
+    ]
+}
