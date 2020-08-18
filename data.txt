@@ -1,5 +1,4 @@
-﻿{
-   [
+[
         {
             "id": "1",
             "nama": "GLOBAL TV HD",
@@ -13,4 +12,3 @@
             "link": "https://raw.githubusercontent.com/zalindo/tv/master/global.m3u8"
         }
     ]
-}
