@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1946979,RESOLUTION=1920x1080,CODECS="avc1.640028,mp4a.40.2"
+https://t5-id-1.nim.mivo.tv/intv6vkhr543hkwt/intv_all/skrz1j8exe/intv_576p/chunks.m3u8?nimblesessionid=201770754
+#EXT-X-STREAM-INF:BANDWIDTH=520921,RESOLUTION=512x288,CODECS="avc1.66.30,mp4a.40.2"
+https://t5-id-1.nim.mivo.tv/intv6vkhr543hkwt/intv_all/skrz1j8exe/intv_288p/chunks.m3u8?nimblesessionid=201770754
+#EXT-X-STREAM-INF:BANDWIDTH=265046,RESOLUTION=342x192,CODECS="avc1.66.30,mp4a.40.2"
+https://t5-id-1.nim.mivo.tv/intv6vkhr543hkwt/intv_all/skrz1j8exe/intv_192p/chunks.m3u8?nimblesessionid=201770754
