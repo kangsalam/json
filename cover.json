@@ -1,0 +1,67 @@
+{
+  "Appare-Ranman!" : {
+    "cover" : "https://firebasestorage.googleapis.com/v0/b/movie-anime-9ecce.appspot.com/o/movie_cover%2F106614-215x300.jpg?alt=media&token=95de80ab-5e2e-48e6-9e3e-0c5dda69a545",
+    "deskripsi" : "Appare-Ranman!",
+    "title" : "Appare-Ranman!"
+  },
+  "Black Clover" : {
+    "cover" : "https://firebasestorage.googleapis.com/v0/b/movie-anime-9ecce.appspot.com/o/movie_cover%2F88336-212x300.jpg?alt=media&token=b1bc5a1e-599c-413a-8071-bb934e244e4d",
+    "deskripsi" : "Black Clover",
+    "title" : "Black Clover"
+  },
+  "Boruto: Naruto Next Generations" : {
+    "cover" : "https://firebasestorage.googleapis.com/v0/b/movie-anime-9ecce.appspot.com/o/movie_cover%2F84460-213x300.jpg?alt=media&token=aa78c74b-2f98-4623-91a1-68da134a3876",
+    "deskripsi" : "Boruto: Naruto Next Generations",
+    "title" : "Boruto: Naruto Next Generations"
+  },
+  "Corpse Party" : {
+    "cover" : "https://firebasestorage.googleapis.com/v0/b/movie-anime-9ecce.appspot.com/o/movie_cover%2F78811.jpg?alt=media&token=eedaea54-9ecb-4c1c-bc40-bee3dfee1642",
+    "deskripsi" : "Corpse Party",
+    "title" : "Corpse Party"
+  },
+  "Deca-Dence" : {
+    "cover" : "https://firebasestorage.googleapis.com/v0/b/movie-anime-9ecce.appspot.com/o/movie_cover%2F107552-215x300.jpg?alt=media&token=fad60c09-3262-48f5-a209-a234e534f637",
+    "deskripsi" : "Deca-Dence",
+    "title" : "Deca-Dence"
+  },
+  "Digimon Adventure" : {
+    "cover" : "https://firebasestorage.googleapis.com/v0/b/movie-anime-9ecce.appspot.com/o/movie_cover%2F105558-scaled.jpg?alt=media&token=2e00309e-0432-47f9-b7f9-0966b0ee7ac5",
+    "deskripsi" : "Digimon Adventure",
+    "title" : "Digimon Adventure"
+  },
+  "Dragon Ball Heroes" : {
+    "cover" : "https://firebasestorage.googleapis.com/v0/b/movie-anime-9ecce.appspot.com/o/movie_cover%2Fimages%20(2).jpeg?alt=media&token=fdd0f540-21ba-4d34-869a-4db82851c94c",
+    "deskripsi" : "Dragon Ball Heroes",
+    "title" : "Dragon Ball Heroes"
+  },
+  "Fire Force S2" : {
+    "cover" : "https://firebasestorage.googleapis.com/v0/b/movie-anime-9ecce.appspot.com/o/movie_cover%2F107657-212x300.jpg?alt=media&token=865b1e22-9c6d-48ce-aadc-d030f944e55c",
+    "deskripsi" : "Fire Force S2",
+    "title" : "Fire Force S2"
+  },
+  "Gibiate" : {
+    "cover" : "https://firebasestorage.googleapis.com/v0/b/movie-anime-9ecce.appspot.com/o/movie_cover%2Fgibiate.jpg?alt=media&token=f25a04a0-a69a-4f54-b714-8068a73a2e7c",
+    "deskripsi" : "Gibiate",
+    "title" : "Gibiate"
+  },
+  "No Guns Life S2" : {
+    "cover" : "https://firebasestorage.googleapis.com/v0/b/movie-anime-9ecce.appspot.com/o/movie_cover%2Fno-gun-s2.jpg?alt=media&token=9b20abe2-e28a-4766-8c24-d242376fe4a6",
+    "deskripsi" : "No Guns Life S2",
+    "title" : "No Guns Life S2"
+  },
+  "One Piece" : {
+    "cover" : "https://firebasestorage.googleapis.com/v0/b/movie-anime-9ecce.appspot.com/o/movie_cover%2F73245-193x300.jpg?alt=media&token=2288922d-1089-42f9-abdc-3a1d64948c30",
+    "deskripsi" : "One Piece",
+    "title" : "One Piece"
+  },
+  "Sword Art Online: Alicization" : {
+    "cover" : "https://firebasestorage.googleapis.com/v0/b/movie-anime-9ecce.appspot.com/o/movie_cover%2F93837-212x300.jpg?alt=media&token=1af0abcb-eca9-4dea-b3f4-5b9990c19698",
+    "deskripsi" : "Sword Art Online: Alicization",
+    "title" : "Sword Art Online: Alicization"
+  },
+  "The God of High School" : {
+    "cover" : "https://firebasestorage.googleapis.com/v0/b/movie-anime-9ecce.appspot.com/o/movie_cover%2Ftghs.jpg?alt=media&token=e08a5ca2-07a4-4cc4-b88c-0a5dd374840d",
+    "deskripsi" : "The God of High School",
+    "title" : "The God of High School"
+  }
+}
